@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <EnableProjectDataOnBuild>false</EnableProjectDataOnBuild>
+    <CustomAfterMicrosoftCommonTargets></CustomAfterMicrosoftCommonTargets>
+    <CustomAfterMicrosoftCommonCrossTargetingTargets></CustomAfterMicrosoftCommonCrossTargetingTargets>
+  </PropertyGroup>
+</Project>
